@@ -1,1 +1,1 @@
-temp 68
+temp 68 temp
